@@ -23,7 +23,6 @@
 // let myp5 = new p5(s);
 
 function setup() {
-	noCanvas();
 	let userinput = select('#userinput');
 	userinput.input(new_text);
 }
